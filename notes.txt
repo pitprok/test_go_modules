@@ -1,0 +1,7 @@
+go get github.com/donvito/hellomod@v1.0.0
+and
+go get github.com/donvito/hellomod@v1.0.1
+
+switch between the versions used by the module, the change is written in go.mod
+
+writting a name before an import creates an alias
